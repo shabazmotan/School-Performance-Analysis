@@ -1,6 +1,6 @@
 Summary -  
 
-The goal was to help the school board and mayor make strategic decisions regarding future school budgets and priorities based on district-wide standardized test results. Aggregated the data to showcase obvious trends in school performance. There are a total of 15 schools and 39,170 students. The total budget is $24,649,428. The average math score is 78.99%, average reading score is 81.88%, students passing math is 74.98%, and students passing reading is 85.81%. The overall passing rate is 80.39%.
+The goal was to help the school board make strategic decisions regarding future school budgets and priorities based on district-wide standardized test results. Aggregated the data to showcase obvious trends in school performance. There are a total of 15 schools and 39,170 students. The total budget is $24,649,428. The average math score is 78.99%, average reading score is 81.88%, students passing math is 74.98%, and students passing reading is 85.81%. The overall passing rate is 80.39%.
 
 Conclusions - 
 
